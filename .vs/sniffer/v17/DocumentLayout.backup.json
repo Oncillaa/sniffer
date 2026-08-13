@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Oncilla\\Desktop\\instuments\\sniffer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C49A13C-193F-4771-9D20-265987464721}|sniffer.pyproj|C:\\Users\\Oncilla\\Desktop\\instuments\\sniffer\\sniffer.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1C49A13C-193F-4771-9D20-265987464721}|sniffer.pyproj|solutionrelative:sniffer.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sniffer.py",
+              "DocumentMoniker": "C:\\Users\\Oncilla\\Desktop\\instuments\\sniffer\\sniffer.py",
+              "RelativeDocumentMoniker": "sniffer.py",
+              "ToolTip": "C:\\Users\\Oncilla\\Desktop\\instuments\\sniffer\\sniffer.py",
+              "RelativeToolTip": "sniffer.py",
+              "ViewState": "AgIAALgBAAAAAAAAAAAkwNEBAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-07-31T14:27:59.271Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
