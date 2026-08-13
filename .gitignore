@@ -1,0 +1,6 @@
+__pycache__/
+.vs/
+*.sln
+*.pyproj
+capture_*
+proxy_capture_*
